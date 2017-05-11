@@ -1,0 +1,50 @@
+*{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  max-width: 1200px;
+}
+body{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.container{
+  padding-left: 1%;
+  padding-top: 1%;
+  width: 70%;
+  height: 100%;
+}
+.fondos{
+  position: relative;
+}
+.fondo2{
+  display: none;
+}
+.fondo3{
+  display: none;
+}
+.fondo4{
+  display: none;
+}
+.gato-s{
+  display: none;
+  width: 30%;
+  position: absolute;
+  top: 22%;
+  left: 22%;
+  height: auto;
+}
+.gato-m{
+  width: 30%;
+  position: absolute;
+  top: 28%;
+  left: 22%;
+  height: auto;
+}
+.gato-l{
+  width: 50%;
+  height: auto;
+  display: none;
+}
