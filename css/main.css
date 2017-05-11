@@ -16,35 +16,3 @@ body{
   width: 70%;
   height: 100%;
 }
-.fondos{
-  position: relative;
-}
-.fondo2{
-  display: none;
-}
-.fondo3{
-  display: none;
-}
-.fondo4{
-  display: none;
-}
-.gato-s{
-  display: none;
-  width: 30%;
-  position: absolute;
-  top: 22%;
-  left: 22%;
-  height: auto;
-}
-.gato-m{
-  width: 30%;
-  position: absolute;
-  top: 28%;
-  left: 22%;
-  height: auto;
-}
-.gato-l{
-  width: 50%;
-  height: auto;
-  display: none;
-}
